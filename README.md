@@ -1,5 +1,14 @@
 # AgriTrent - Indian Agriculture Data & Crop Yield Analysis
 
+<h3 align="center">
+  <p>&nbsp;</p>
+  Working Demo
+  <p>&nbsp;</p>
+  <a href="https://youtu.be/yguKGYuuma0" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/dileepNaiduOne/AgriTrend-PowerBI/refs/heads/main/thumbnail.png" alt="Thumbnail" height="280" width="500" /></a>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</h3>
+
 ## Overview
 This project presents a Power BI report on Indian agriculture. It highlights total area, production, and yield for different crops and states over various years.
 
