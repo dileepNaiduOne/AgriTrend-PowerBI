@@ -10,7 +10,7 @@ The Excel dataset includes columns like Year, State, District, Crop, Area (in 10
 
 - **Slicers (Filters)**: Quickly filter by Year, Crop, or State.  
 - **Key Metrics Cards**: Show total area, production, and yield at a glance.  
-- **Pie Chart**: Compares contribution of each state in terms of area or production.  
+- **Drill-down Pie Chart**: Compares contribution of each state in terms of area or production.  
 - **Line Chart**: Displays trends over time for production or yield across states or crops.  
 - **Bar Chart**: Highlights yield differences (kg/ha) by state or crop.
 
