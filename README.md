@@ -8,7 +8,8 @@ The Excel dataset includes columns like Year, State, District, Crop, Area (in 10
 
 ## Power BI Report & Visuals
 
-- **Slicers (Filters)**: Quickly filter by Year, Crop, or State.  
+- **Slicers (Filters)**: Quickly filter by Year, Crop, or State.
+- **Scroller**: Show state and total yield.  
 - **Key Metrics Cards**: Show total area, production, and yield at a glance.  
 - **Drill-down Pie Chart**: Compares contribution of each state in terms of area or production.  
 - **Line Chart**: Displays trends over time for production or yield across states or crops.  
